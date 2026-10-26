@@ -22,3 +22,4 @@
 
 # Common build-tool wrapper scripts ('.cmd' versions are handled by 'Common.gitattributes')
 gradlew         text eol=lf
+.gitea/CODEOWNERS linguist-detectable=false
